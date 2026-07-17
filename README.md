@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayur Swami</h1>
 
-<h3 align="center">🚀 Data Engineer | Microsoft Certified Fabric Data Engineer</h3>
+<h3 align="center">🚀 Data Engineer | Databricks Certified & Microsoft Certified Fabric Data Engineer Associate</h3>
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights and building scalable, cloud-based data solutions.
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SilentDemonSD/SilentDemonSD.github.io/main/assets/img/dev.png">
 
 ---
 
@@ -39,7 +39,8 @@ Passionate about transforming raw data into meaningful insights and building sca
 
 ### 🏆 Certifications
 
-* 🎖️ Microsoft Certified Fabric Data Engineer
+* 🎖️ Microsoft Certified: Fabric Data Engineer Associate
+* 🎖️ Databricks Certified Data Engineer Associate
 
 ---
 
