@@ -39,11 +39,11 @@ Passionate about transforming raw data into meaningful insights and building sca
 
 ### 🏆 Certifications
 
-* 🎖️ Microsoft Certified: Fabric Data Engineer Associate
-* 🎖️ Databricks Certified Data Engineer Associate
+* 🎖️ [Databricks Certified Data Engineer Associate](https://credentials.databricks.com/6d39755b-ff57-42cd-8970-2a900e66a8a7#acc.9Fe6Tw5b)
+* 🎖️ [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-gb/Mayur-S-Swami/40117E099AFC26C?sharingId=B7CE1EC79AD471E0)
 
 ---
 
 ### 📈 Vision
 
-To bridge the gap between **data engineering and AI**, enabling organizations to unlock the full potential of their data through intelligent and scalable solutions.
+To bridge the gap between **Data Engineering and AI**, enabling organizations to unlock the full potential of their data through intelligent and scalable solutions.
