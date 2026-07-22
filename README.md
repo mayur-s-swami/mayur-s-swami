@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayur Swami</h1>
 
-<h3 align="center">🚀 Data Engineer | Databricks Certified & Microsoft Certified Fabric Data Engineer Associate</h3>
+<h3 align="center">🚀 Data Engineer | Databricks Certified & Microsoft Certified Fabric Data Engineer</h3>
 
 <p align="center">
 Passionate about transforming raw data into meaningful insights and building scalable, cloud-based data solutions.
