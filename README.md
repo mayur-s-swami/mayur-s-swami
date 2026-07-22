@@ -12,7 +12,7 @@ Passionate about transforming raw data into meaningful insights and building sca
 
 ### 👨‍💻 About Me
 
-* 🔭 Working as a **Data Engineer** with 3.8+ years of experience
+* 🔭 Working as a **Data Engineer** with 4.6+ years of experience
 * ☁️ Skilled in building scalable data pipelines on modern cloud platforms
 * 🌱 Currently exploring **AWS Cloud & advanced data engineering concepts**
 * ⚡ Passionate about creating efficient, reliable, and production-ready systems
